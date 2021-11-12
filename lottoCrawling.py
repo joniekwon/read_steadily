@@ -117,10 +117,8 @@ if __name__ == "__main__":
         result = lotto_WinNumbers(number)
 
         doSave = input("결과를 저장할까요? [y]/n")
-        if doSave=="":
-            doSave="y"
 
-        if doSave==("y"or"Y"or"ㅛ"):
+        if doSave==(""or"y"or"Y"or"ㅛ"):
             saveResult(result)
     else:
         result = loadCSV()      #저장된 csv파일 가져오기
