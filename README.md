@@ -4,8 +4,7 @@
 ## blog
 - optimizer(AdamW, AdamRW...) [[LINK](https://hiddenbeginner.github.io/deeplearning/paperreview/2019/12/29/paper_review_AdamW.html)]
 
-## 
-
+## Paper
 - Transformers in Vision: A Survey [[LINK](https://arxiv.org/abs/2101.01169)]
 - Transformer [[LINK](https://paperswithcode.com/method/transformer)]
 - Attention Is All You Need [[LINK](https://paperswithcode.com/paper/attention-is-all-you-need)]
