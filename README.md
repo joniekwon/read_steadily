@@ -9,3 +9,5 @@
 - Transformer [[LINK](https://paperswithcode.com/method/transformer)]
 - Attention Is All You Need [[LINK](https://paperswithcode.com/paper/attention-is-all-you-need)]
 - Self-Supervised Learning [[LINK](https://paperswithcode.com/task/self-supervised-learning)]
+- Adam[[LINK](https://arxiv.org/abs/1412.6980)]
+- Adadelta[[LINK](https://arxiv.org/abs/1212.5701)]
